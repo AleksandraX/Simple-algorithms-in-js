@@ -11,5 +11,9 @@ Prerequirements:
 
 For first run you have to open main folder in Visual Code (you should be on the same node as "package.json".
 ![image](https://user-images.githubusercontent.com/24406115/140836443-97f45a18-7bdc-4229-9cfa-9f12b27183ea.png)
+
 Then, open a terminal and write "npm i" to install all necessary dependencies.
+Now you can start work. :)
+
+Run your tests by taping a command: "npm test {folderName}/test.js" e.g. "npm fizzbazz/test/js"
 
