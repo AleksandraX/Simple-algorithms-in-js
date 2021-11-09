@@ -15,5 +15,5 @@ For first run you have to open main folder in Visual Code (you should be on the 
 Then, open a terminal and write "npm i" to install all necessary dependencies.
 Now you can start work. :)
 
-Run your tests by taping a command: "npm test {folderName}/test.js" e.g. "npm fizzbazz/test/js"
+Run your tests by taping a command: "npm test {folderName}/test.js" e.g. "npm test fizzbazz/test.js"
 
